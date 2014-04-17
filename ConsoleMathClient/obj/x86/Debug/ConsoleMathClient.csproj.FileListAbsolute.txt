@@ -1,0 +1,6 @@
+c:\users\ochoaas\documents\visual studio 2010\Projects\WcfMathServiceLibrary\ConsoleMathClient\bin\Debug\ConsoleMathClient.exe
+c:\users\ochoaas\documents\visual studio 2010\Projects\WcfMathServiceLibrary\ConsoleMathClient\bin\Debug\ConsoleMathClient.pdb
+c:\users\ochoaas\documents\visual studio 2010\Projects\WcfMathServiceLibrary\ConsoleMathClient\obj\x86\Debug\ConsoleMathClient.exe
+c:\users\ochoaas\documents\visual studio 2010\Projects\WcfMathServiceLibrary\ConsoleMathClient\obj\x86\Debug\ConsoleMathClient.pdb
+c:\users\ochoaas\documents\visual studio 2010\Projects\WcfMathServiceLibrary\ConsoleMathClient\bin\Debug\ConsoleMathClient.exe.config
+C:\Users\ochoaas\Documents\Visual Studio 2010\Projects\WcfMathServiceLibrary\ConsoleMathClient\obj\x86\Debug\ConsoleMathClient.csprojResolveAssemblyReference.cache

@@ -1,0 +1,4 @@
+<Modules>
+  <Module PersistentId="4E8452D9-3390-41E6-9864-D07EDE481483" ModuleId="WcfMathServiceLibrary" />
+  <Module PersistentId="DE8A3D23-527A-4D3F-836F-48668EF7EEEB" ModuleId="ConsoleMathClient" />
+</Modules>

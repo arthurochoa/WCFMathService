@@ -1,0 +1,6 @@
+c:\users\ochoaas\documents\visual studio 2010\Projects\WcfMathServiceLibrary\WcfMathServiceLibrary\bin\Debug\WcfMathServiceLibrary.dll.config
+c:\users\ochoaas\documents\visual studio 2010\Projects\WcfMathServiceLibrary\WcfMathServiceLibrary\bin\Debug\WcfMathServiceLibrary.dll
+c:\users\ochoaas\documents\visual studio 2010\Projects\WcfMathServiceLibrary\WcfMathServiceLibrary\bin\Debug\WcfMathServiceLibrary.pdb
+c:\users\ochoaas\documents\visual studio 2010\Projects\WcfMathServiceLibrary\WcfMathServiceLibrary\obj\Debug\WcfMathServiceLibrary.dll
+c:\users\ochoaas\documents\visual studio 2010\Projects\WcfMathServiceLibrary\WcfMathServiceLibrary\obj\Debug\WcfMathServiceLibrary.pdb
+C:\Users\ochoaas\Documents\Visual Studio 2010\Projects\WcfMathServiceLibrary\WcfMathServiceLibrary\obj\Debug\WcfMathServiceLibrary.csprojResolveAssemblyReference.cache
